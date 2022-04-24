@@ -1,17 +1,16 @@
 -------------------------------------------English----------------------------------------------- 
 
 This program is not very well organized in folders since errors occurred when reading the struct.json file, apart from that the program works perfectly. 
+Note: to run the tests of the different classes and  functions from Logic run the code “test.py” And to run the program in general run or start “main.py” 
 
-Note: 
-
-to run the tests of the different classes and  functions from Logic run the code “test.py” And to run the program in general run or start “main.py” 
-
+I didn't quite understand what he wanted Tom to do.
+what I did was what I thought Tom wanted :D
  
 
            -------------------------------------------Spanish---------------------------------------------- 
 
 Este programa no está muy bien ordenado en carpetas ya que ocurrian errores al momento de leer el archivo strucct.json, Aparte de eso el programa funciona a la perfección. 
+Nota: para correr los test de las diferentes clases y funciones de la lógica corra el código “test.py” Y para correr el programa en general corra o inicie “main.py”  
 
-Nota:  
-
-para correr los test de las diferentes clases y funciones de la lógica corra el código “test.py” Y para correr el programa en general corra o inicie “main.py”  
+No entendí muy bien qué quería que hiciera Tom.
+lo que hice fue lo que pensé que Tom quería :D

@@ -12,7 +12,9 @@ def run():
         'number_of_even_numbers': main.even_numbers(),
         'number_of_odd_numbers': main.odd_numbers(),
     }
-
+    print("""
+    *
+    """*50)
     print(struct)
     with open('struct.json','r+',encoding='utf_8') as f:
         file = json.loads(f.read())
